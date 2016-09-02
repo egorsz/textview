@@ -1,0 +1,2864 @@
+{
+  "nodes": [
+    {
+      "id": 0,
+      "text": "Headcrabs",
+      "pos": "NNS",
+      "sent": 0
+    },
+    {
+      "id": 1,
+      "text": "are",
+      "pos": "VBP",
+      "sent": 0
+    },
+    {
+      "id": 2,
+      "text": "depicted",
+      "pos": "VBN",
+      "sent": 0
+    },
+    {
+      "id": 3,
+      "text": "as",
+      "pos": "IN",
+      "sent": 0
+    },
+    {
+      "id": 4,
+      "text": "parasitic",
+      "pos": "JJ",
+      "sent": 0
+    },
+    {
+      "id": 5,
+      "text": "lifeforms",
+      "pos": "NNS",
+      "sent": 0
+    },
+    {
+      "id": 6,
+      "text": "roughly",
+      "pos": "RB",
+      "sent": 0
+    },
+    {
+      "id": 7,
+      "text": "2",
+      "pos": "CD",
+      "sent": 0
+    },
+    {
+      "id": 8,
+      "text": "feet",
+      "pos": "NNS",
+      "sent": 0
+    },
+    {
+      "id": 9,
+      "text": "-LRB-",
+      "pos": "-LRB-",
+      "sent": 0
+    },
+    {
+      "id": 10,
+      "text": "0.61",
+      "pos": "CD",
+      "sent": 0
+    },
+    {
+      "id": 11,
+      "text": "m",
+      "pos": "NN",
+      "sent": 0
+    },
+    {
+      "id": 12,
+      "text": "-RRB-",
+      "pos": "-RRB-",
+      "sent": 0
+    },
+    {
+      "id": 13,
+      "text": "long",
+      "pos": "RB",
+      "sent": 0
+    },
+    {
+      "id": 100,
+      "text": "-LSB-",
+      "pos": "-LRB-",
+      "sent": 1
+    },
+    {
+      "id": 101,
+      "text": "-RSB-",
+      "pos": "-RRB-",
+      "sent": 1
+    },
+    {
+      "id": 102,
+      "text": "The",
+      "pos": "DT",
+      "sent": 1
+    },
+    {
+      "id": 103,
+      "text": "common",
+      "pos": "JJ",
+      "sent": 1
+    },
+    {
+      "id": 104,
+      "text": "headcrab",
+      "pos": "NN",
+      "sent": 1
+    },
+    {
+      "id": 105,
+      "text": "variant",
+      "pos": "NN",
+      "sent": 1
+    },
+    {
+      "id": 106,
+      "text": "has",
+      "pos": "VBZ",
+      "sent": 1
+    },
+    {
+      "id": 107,
+      "text": "rounded",
+      "pos": "VBN",
+      "sent": 1
+    },
+    {
+      "id": 108,
+      "text": "bodies",
+      "pos": "NNS",
+      "sent": 1
+    },
+    {
+      "id": 109,
+      "text": "with",
+      "pos": "IN",
+      "sent": 1
+    },
+    {
+      "id": 110,
+      "text": "four",
+      "pos": "CD",
+      "sent": 1
+    },
+    {
+      "id": 111,
+      "text": "legs",
+      "pos": "NNS",
+      "sent": 1
+    },
+    {
+      "id": 112,
+      "text": "for",
+      "pos": "IN",
+      "sent": 1
+    },
+    {
+      "id": 113,
+      "text": "movement",
+      "pos": "NN",
+      "sent": 1
+    },
+    {
+      "id": 114,
+      "text": "two",
+      "pos": "CD",
+      "sent": 1
+    },
+    {
+      "id": 115,
+      "text": "of",
+      "pos": "IN",
+      "sent": 1
+    },
+    {
+      "id": 116,
+      "text": "which",
+      "pos": "WDT",
+      "sent": 1
+    },
+    {
+      "id": 117,
+      "text": "are",
+      "pos": "VBP",
+      "sent": 1
+    },
+    {
+      "id": 118,
+      "text": "long",
+      "pos": "JJ",
+      "sent": 1
+    },
+    {
+      "id": 119,
+      "text": "clawed",
+      "pos": "JJ",
+      "sent": 1
+    },
+    {
+      "id": 120,
+      "text": "legs",
+      "pos": "NNS",
+      "sent": 1
+    },
+    {
+      "id": 121,
+      "text": "at",
+      "pos": "IN",
+      "sent": 1
+    },
+    {
+      "id": 122,
+      "text": "the",
+      "pos": "DT",
+      "sent": 1
+    },
+    {
+      "id": 123,
+      "text": "front",
+      "pos": "NN",
+      "sent": 1
+    },
+    {
+      "id": 124,
+      "text": "and",
+      "pos": "CC",
+      "sent": 1
+    },
+    {
+      "id": 125,
+      "text": "two",
+      "pos": "CD",
+      "sent": 1
+    },
+    {
+      "id": 126,
+      "text": "stubby",
+      "pos": "JJ",
+      "sent": 1
+    },
+    {
+      "id": 127,
+      "text": "legs",
+      "pos": "NNS",
+      "sent": 1
+    },
+    {
+      "id": 128,
+      "text": "at",
+      "pos": "IN",
+      "sent": 1
+    },
+    {
+      "id": 129,
+      "text": "the",
+      "pos": "DT",
+      "sent": 1
+    },
+    {
+      "id": 130,
+      "text": "back",
+      "pos": "NN",
+      "sent": 1
+    },
+    {
+      "id": 200,
+      "text": "Their",
+      "pos": "PRP$",
+      "sent": 2
+    },
+    {
+      "id": 201,
+      "text": "pair",
+      "pos": "NN",
+      "sent": 2
+    },
+    {
+      "id": 202,
+      "text": "of",
+      "pos": "IN",
+      "sent": 2
+    },
+    {
+      "id": 203,
+      "text": "large",
+      "pos": "JJ",
+      "sent": 2
+    },
+    {
+      "id": 204,
+      "text": "frontal",
+      "pos": "JJ",
+      "sent": 2
+    },
+    {
+      "id": 205,
+      "text": "claws",
+      "pos": "NNS",
+      "sent": 2
+    },
+    {
+      "id": 206,
+      "text": "are",
+      "pos": "VBP",
+      "sent": 2
+    },
+    {
+      "id": 207,
+      "text": "for",
+      "pos": "IN",
+      "sent": 2
+    },
+    {
+      "id": 208,
+      "text": "attacking",
+      "pos": "VBG",
+      "sent": 2
+    },
+    {
+      "id": 209,
+      "text": "and",
+      "pos": "CC",
+      "sent": 2
+    },
+    {
+      "id": 210,
+      "text": "as",
+      "pos": "IN",
+      "sent": 2
+    },
+    {
+      "id": 211,
+      "text": "additional",
+      "pos": "JJ",
+      "sent": 2
+    },
+    {
+      "id": 212,
+      "text": "support",
+      "pos": "NN",
+      "sent": 2
+    },
+    {
+      "id": 213,
+      "text": "when",
+      "pos": "WRB",
+      "sent": 2
+    },
+    {
+      "id": 214,
+      "text": "standing",
+      "pos": "VBG",
+      "sent": 2
+    },
+    {
+      "id": 215,
+      "text": "still",
+      "pos": "RB",
+      "sent": 2
+    },
+    {
+      "id": 300,
+      "text": "Under",
+      "pos": "IN",
+      "sent": 3
+    },
+    {
+      "id": 301,
+      "text": "the",
+      "pos": "DT",
+      "sent": 3
+    },
+    {
+      "id": 302,
+      "text": "headcrab",
+      "pos": "NN",
+      "sent": 3
+    },
+    {
+      "id": 303,
+      "text": "body",
+      "pos": "NN",
+      "sent": 3
+    },
+    {
+      "id": 304,
+      "text": "is",
+      "pos": "VBZ",
+      "sent": 3
+    },
+    {
+      "id": 305,
+      "text": "a",
+      "pos": "DT",
+      "sent": 3
+    },
+    {
+      "id": 306,
+      "text": "large",
+      "pos": "JJ",
+      "sent": 3
+    },
+    {
+      "id": 307,
+      "text": "rounded",
+      "pos": "VBD",
+      "sent": 3
+    },
+    {
+      "id": 308,
+      "text": "mouth",
+      "pos": "NN",
+      "sent": 3
+    },
+    {
+      "id": 309,
+      "text": "surrounded",
+      "pos": "VBN",
+      "sent": 3
+    },
+    {
+      "id": 310,
+      "text": "by",
+      "pos": "IN",
+      "sent": 3
+    },
+    {
+      "id": 311,
+      "text": "mangled",
+      "pos": "JJ",
+      "sent": 3
+    },
+    {
+      "id": 312,
+      "text": "rigid",
+      "pos": "JJ",
+      "sent": 3
+    },
+    {
+      "id": 313,
+      "text": "flesh",
+      "pos": "NN",
+      "sent": 3
+    },
+    {
+      "id": 314,
+      "text": "with",
+      "pos": "IN",
+      "sent": 3
+    },
+    {
+      "id": 315,
+      "text": "a",
+      "pos": "DT",
+      "sent": 3
+    },
+    {
+      "id": 316,
+      "text": "sharp",
+      "pos": "JJ",
+      "sent": 3
+    },
+    {
+      "id": 317,
+      "text": "claw-like",
+      "pos": "JJ",
+      "sent": 3
+    },
+    {
+      "id": 318,
+      "text": "beak",
+      "pos": "NN",
+      "sent": 3
+    },
+    {
+      "id": 400,
+      "text": "Physically",
+      "pos": "RB",
+      "sent": 4
+    },
+    {
+      "id": 401,
+      "text": "headcrabs",
+      "pos": "NNS",
+      "sent": 4
+    },
+    {
+      "id": 402,
+      "text": "are",
+      "pos": "VBP",
+      "sent": 4
+    },
+    {
+      "id": 403,
+      "text": "frail",
+      "pos": "JJ",
+      "sent": 4
+    },
+    {
+      "id": 404,
+      "text": "a",
+      "pos": "DT",
+      "sent": 4
+    },
+    {
+      "id": 405,
+      "text": "few",
+      "pos": "JJ",
+      "sent": 4
+    },
+    {
+      "id": 406,
+      "text": "bullets",
+      "pos": "NNS",
+      "sent": 4
+    },
+    {
+      "id": 407,
+      "text": "or",
+      "pos": "CC",
+      "sent": 4
+    },
+    {
+      "id": 408,
+      "text": "a",
+      "pos": "DT",
+      "sent": 4
+    },
+    {
+      "id": 409,
+      "text": "single",
+      "pos": "JJ",
+      "sent": 4
+    },
+    {
+      "id": 410,
+      "text": "strike",
+      "pos": "NN",
+      "sent": 4
+    },
+    {
+      "id": 411,
+      "text": "from",
+      "pos": "IN",
+      "sent": 4
+    },
+    {
+      "id": 412,
+      "text": "the",
+      "pos": "DT",
+      "sent": 4
+    },
+    {
+      "id": 413,
+      "text": "player",
+      "pos": "NN",
+      "sent": 4
+    },
+    {
+      "id": 414,
+      "text": "melee",
+      "pos": "NN",
+      "sent": 4
+    },
+    {
+      "id": 415,
+      "text": "weapon",
+      "pos": "NN",
+      "sent": 4
+    },
+    {
+      "id": 416,
+      "text": "being",
+      "pos": "VBG",
+      "sent": 4
+    },
+    {
+      "id": 417,
+      "text": "sufficient",
+      "pos": "JJ",
+      "sent": 4
+    },
+    {
+      "id": 418,
+      "text": "to",
+      "pos": "TO",
+      "sent": 4
+    },
+    {
+      "id": 419,
+      "text": "dispatch",
+      "pos": "VB",
+      "sent": 4
+    },
+    {
+      "id": 420,
+      "text": "them",
+      "pos": "PRP",
+      "sent": 4
+    },
+    {
+      "id": 500,
+      "text": "They",
+      "pos": "PRP",
+      "sent": 5
+    },
+    {
+      "id": 501,
+      "text": "are",
+      "pos": "VBP",
+      "sent": 5
+    },
+    {
+      "id": 502,
+      "text": "also",
+      "pos": "RB",
+      "sent": 5
+    },
+    {
+      "id": 503,
+      "text": "relatively",
+      "pos": "RB",
+      "sent": 5
+    },
+    {
+      "id": 504,
+      "text": "slow-moving",
+      "pos": "JJ",
+      "sent": 5
+    },
+    {
+      "id": 505,
+      "text": "and",
+      "pos": "CC",
+      "sent": 5
+    },
+    {
+      "id": 506,
+      "text": "their",
+      "pos": "PRP$",
+      "sent": 5
+    },
+    {
+      "id": 507,
+      "text": "attacks",
+      "pos": "NNS",
+      "sent": 5
+    },
+    {
+      "id": 508,
+      "text": "inflict",
+      "pos": "VBP",
+      "sent": 5
+    },
+    {
+      "id": 509,
+      "text": "very",
+      "pos": "RB",
+      "sent": 5
+    },
+    {
+      "id": 510,
+      "text": "little",
+      "pos": "JJ",
+      "sent": 5
+    },
+    {
+      "id": 511,
+      "text": "damage",
+      "pos": "NN",
+      "sent": 5
+    },
+    {
+      "id": 600,
+      "text": "However",
+      "pos": "RB",
+      "sent": 6
+    },
+    {
+      "id": 601,
+      "text": "they",
+      "pos": "PRP",
+      "sent": 6
+    },
+    {
+      "id": 602,
+      "text": "can",
+      "pos": "MD",
+      "sent": 6
+    },
+    {
+      "id": 603,
+      "text": "leap",
+      "pos": "VB",
+      "sent": 6
+    },
+    {
+      "id": 604,
+      "text": "surprising",
+      "pos": "JJ",
+      "sent": 6
+    },
+    {
+      "id": 605,
+      "text": "distances",
+      "pos": "NNS",
+      "sent": 6
+    },
+    {
+      "id": 606,
+      "text": "and",
+      "pos": "CC",
+      "sent": 6
+    },
+    {
+      "id": 607,
+      "text": "heights",
+      "pos": "NNS",
+      "sent": 6
+    },
+    {
+      "id": 700,
+      "text": "Headcrabs",
+      "pos": "NNS",
+      "sent": 7
+    },
+    {
+      "id": 701,
+      "text": "seek",
+      "pos": "VBP",
+      "sent": 7
+    },
+    {
+      "id": 702,
+      "text": "larger",
+      "pos": "JJR",
+      "sent": 7
+    },
+    {
+      "id": 703,
+      "text": "human",
+      "pos": "JJ",
+      "sent": 7
+    },
+    {
+      "id": 704,
+      "text": "hosts",
+      "pos": "NNS",
+      "sent": 7
+    },
+    {
+      "id": 705,
+      "text": "which",
+      "pos": "WDT",
+      "sent": 7
+    },
+    {
+      "id": 706,
+      "text": "are",
+      "pos": "VBP",
+      "sent": 7
+    },
+    {
+      "id": 707,
+      "text": "converted",
+      "pos": "VBN",
+      "sent": 7
+    },
+    {
+      "id": 708,
+      "text": "into",
+      "pos": "IN",
+      "sent": 7
+    },
+    {
+      "id": 709,
+      "text": "zombie-like",
+      "pos": "JJ",
+      "sent": 7
+    },
+    {
+      "id": 710,
+      "text": "mutants",
+      "pos": "NNS",
+      "sent": 7
+    },
+    {
+      "id": 711,
+      "text": "that",
+      "pos": "WDT",
+      "sent": 7
+    },
+    {
+      "id": 712,
+      "text": "attack",
+      "pos": "VBP",
+      "sent": 7
+    },
+    {
+      "id": 713,
+      "text": "any",
+      "pos": "DT",
+      "sent": 7
+    },
+    {
+      "id": 714,
+      "text": "living",
+      "pos": "VBG",
+      "sent": 7
+    },
+    {
+      "id": 715,
+      "text": "thing",
+      "pos": "NN",
+      "sent": 7
+    },
+    {
+      "id": 716,
+      "text": "they",
+      "pos": "PRP",
+      "sent": 7
+    },
+    {
+      "id": 717,
+      "text": "can",
+      "pos": "MD",
+      "sent": 7
+    },
+    {
+      "id": 718,
+      "text": "find",
+      "pos": "VB",
+      "sent": 7
+    },
+    {
+      "id": 800,
+      "text": "The",
+      "pos": "DT",
+      "sent": 8
+    },
+    {
+      "id": 801,
+      "text": "converted",
+      "pos": "VBN",
+      "sent": 8
+    },
+    {
+      "id": 802,
+      "text": "humans",
+      "pos": "NNS",
+      "sent": 8
+    },
+    {
+      "id": 803,
+      "text": "are",
+      "pos": "VBP",
+      "sent": 8
+    },
+    {
+      "id": 804,
+      "text": "far",
+      "pos": "RB",
+      "sent": 8
+    },
+    {
+      "id": 805,
+      "text": "more",
+      "pos": "RBR",
+      "sent": 8
+    },
+    {
+      "id": 806,
+      "text": "resilient",
+      "pos": "JJ",
+      "sent": 8
+    },
+    {
+      "id": 807,
+      "text": "than",
+      "pos": "IN",
+      "sent": 8
+    },
+    {
+      "id": 808,
+      "text": "an",
+      "pos": "DT",
+      "sent": 8
+    },
+    {
+      "id": 809,
+      "text": "ordinary",
+      "pos": "JJ",
+      "sent": 8
+    },
+    {
+      "id": 810,
+      "text": "human",
+      "pos": "JJ",
+      "sent": 8
+    },
+    {
+      "id": 811,
+      "text": "would",
+      "pos": "MD",
+      "sent": 8
+    },
+    {
+      "id": 812,
+      "text": "be",
+      "pos": "VB",
+      "sent": 8
+    },
+    {
+      "id": 813,
+      "text": "and",
+      "pos": "CC",
+      "sent": 8
+    },
+    {
+      "id": 814,
+      "text": "inherit",
+      "pos": "VB",
+      "sent": 8
+    },
+    {
+      "id": 815,
+      "text": "the",
+      "pos": "DT",
+      "sent": 8
+    },
+    {
+      "id": 816,
+      "text": "headcrab",
+      "pos": "NN",
+      "sent": 8
+    },
+    {
+      "id": 817,
+      "text": "resilience",
+      "pos": "NN",
+      "sent": 8
+    },
+    {
+      "id": 818,
+      "text": "toward",
+      "pos": "IN",
+      "sent": 8
+    },
+    {
+      "id": 819,
+      "text": "toxic",
+      "pos": "JJ",
+      "sent": 8
+    },
+    {
+      "id": 820,
+      "text": "and",
+      "pos": "CC",
+      "sent": 8
+    },
+    {
+      "id": 821,
+      "text": "radioactive",
+      "pos": "JJ",
+      "sent": 8
+    },
+    {
+      "id": 822,
+      "text": "materials",
+      "pos": "NNS",
+      "sent": 8
+    },
+    {
+      "id": 900,
+      "text": "Headcrabs",
+      "pos": "NNS",
+      "sent": 9
+    },
+    {
+      "id": 901,
+      "text": "and",
+      "pos": "CC",
+      "sent": 9
+    },
+    {
+      "id": 902,
+      "text": "headcrab",
+      "pos": "JJ",
+      "sent": 9
+    },
+    {
+      "id": 903,
+      "text": "zombies",
+      "pos": "NNS",
+      "sent": 9
+    },
+    {
+      "id": 904,
+      "text": "die",
+      "pos": "VBP",
+      "sent": 9
+    },
+    {
+      "id": 905,
+      "text": "slowly",
+      "pos": "RB",
+      "sent": 9
+    },
+    {
+      "id": 906,
+      "text": "when",
+      "pos": "WRB",
+      "sent": 9
+    },
+    {
+      "id": 907,
+      "text": "they",
+      "pos": "PRP",
+      "sent": 9
+    },
+    {
+      "id": 908,
+      "text": "catch",
+      "pos": "VBP",
+      "sent": 9
+    },
+    {
+      "id": 909,
+      "text": "fire",
+      "pos": "NN",
+      "sent": 9
+    },
+    {
+      "id": 1000,
+      "text": "The",
+      "pos": "DT",
+      "sent": 10
+    },
+    {
+      "id": 1001,
+      "text": "games",
+      "pos": "NNS",
+      "sent": 10
+    },
+    {
+      "id": 1002,
+      "text": "also",
+      "pos": "RB",
+      "sent": 10
+    },
+    {
+      "id": 1003,
+      "text": "establish",
+      "pos": "VBP",
+      "sent": 10
+    },
+    {
+      "id": 1004,
+      "text": "that",
+      "pos": "IN",
+      "sent": 10
+    },
+    {
+      "id": 1005,
+      "text": "while",
+      "pos": "IN",
+      "sent": 10
+    },
+    {
+      "id": 1006,
+      "text": "headcrabs",
+      "pos": "NNS",
+      "sent": 10
+    },
+    {
+      "id": 1007,
+      "text": "are",
+      "pos": "VBP",
+      "sent": 10
+    },
+    {
+      "id": 1008,
+      "text": "parasites",
+      "pos": "NNS",
+      "sent": 10
+    },
+    {
+      "id": 1009,
+      "text": "that",
+      "pos": "WDT",
+      "sent": 10
+    },
+    {
+      "id": 1010,
+      "text": "prey",
+      "pos": "VBP",
+      "sent": 10
+    },
+    {
+      "id": 1011,
+      "text": "on",
+      "pos": "IN",
+      "sent": 10
+    },
+    {
+      "id": 1012,
+      "text": "humans",
+      "pos": "NNS",
+      "sent": 10
+    },
+    {
+      "id": 1013,
+      "text": "they",
+      "pos": "PRP",
+      "sent": 10
+    },
+    {
+      "id": 1014,
+      "text": "are",
+      "pos": "VBP",
+      "sent": 10
+    },
+    {
+      "id": 1015,
+      "text": "also",
+      "pos": "RB",
+      "sent": 10
+    },
+    {
+      "id": 1016,
+      "text": "the",
+      "pos": "DT",
+      "sent": 10
+    },
+    {
+      "id": 1017,
+      "text": "prey",
+      "pos": "NN",
+      "sent": 10
+    },
+    {
+      "id": 1018,
+      "text": "of",
+      "pos": "IN",
+      "sent": 10
+    },
+    {
+      "id": 1019,
+      "text": "the",
+      "pos": "DT",
+      "sent": 10
+    },
+    {
+      "id": 1020,
+      "text": "creatures",
+      "pos": "NNS",
+      "sent": 10
+    },
+    {
+      "id": 1021,
+      "text": "of",
+      "pos": "IN",
+      "sent": 10
+    },
+    {
+      "id": 1022,
+      "text": "their",
+      "pos": "PRP$",
+      "sent": 10
+    },
+    {
+      "id": 1023,
+      "text": "homeworld",
+      "pos": "NN",
+      "sent": 10
+    },
+    {
+      "id": 1100,
+      "text": "Bullsquids",
+      "pos": "NNP",
+      "sent": 11
+    },
+    {
+      "id": 1101,
+      "text": "Vortigaunts",
+      "pos": "NNP",
+      "sent": 11
+    },
+    {
+      "id": 1102,
+      "text": "barnacles",
+      "pos": "NNS",
+      "sent": 11
+    },
+    {
+      "id": 1103,
+      "text": "and",
+      "pos": "CC",
+      "sent": 11
+    },
+    {
+      "id": 1104,
+      "text": "antlions",
+      "pos": "NNS",
+      "sent": 11
+    },
+    {
+      "id": 1105,
+      "text": "will",
+      "pos": "MD",
+      "sent": 11
+    },
+    {
+      "id": 1106,
+      "text": "all",
+      "pos": "DT",
+      "sent": 11
+    },
+    {
+      "id": 1107,
+      "text": "eat",
+      "pos": "VB",
+      "sent": 11
+    },
+    {
+      "id": 1108,
+      "text": "headcrabs",
+      "pos": "NNS",
+      "sent": 11
+    },
+    {
+      "id": 1109,
+      "text": "and",
+      "pos": "CC",
+      "sent": 11
+    },
+    {
+      "id": 1110,
+      "text": "Vortigaunts",
+      "pos": "NNS",
+      "sent": 11
+    },
+    {
+      "id": 1111,
+      "text": "can",
+      "pos": "MD",
+      "sent": 11
+    },
+    {
+      "id": 1112,
+      "text": "be",
+      "pos": "VB",
+      "sent": 11
+    },
+    {
+      "id": 1113,
+      "text": "seen",
+      "pos": "VBN",
+      "sent": 11
+    },
+    {
+      "id": 1114,
+      "text": "cooking",
+      "pos": "VBG",
+      "sent": 11
+    },
+    {
+      "id": 1115,
+      "text": "them",
+      "pos": "PRP",
+      "sent": 11
+    },
+    {
+      "id": 1116,
+      "text": "on",
+      "pos": "IN",
+      "sent": 11
+    },
+    {
+      "id": 1117,
+      "text": "several",
+      "pos": "JJ",
+      "sent": 11
+    },
+    {
+      "id": 1118,
+      "text": "occasions",
+      "pos": "NNS",
+      "sent": 11
+    }
+  ],
+  "edges": [
+    {
+      "source": 0,
+      "target": 1,
+      "text": "",
+      "pos": "",
+      "sent": 0
+    },
+    {
+      "source": 1,
+      "target": 2,
+      "text": "",
+      "pos": "",
+      "sent": 0
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "text": "",
+      "pos": "",
+      "sent": 0
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "text": "",
+      "pos": "",
+      "sent": 0
+    },
+    {
+      "source": 4,
+      "target": 5,
+      "text": "",
+      "pos": "",
+      "sent": 0
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "text": "",
+      "pos": "",
+      "sent": 0
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "text": "",
+      "pos": "",
+      "sent": 0
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "text": "",
+      "pos": "",
+      "sent": 0
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "text": "",
+      "pos": "",
+      "sent": 0
+    },
+    {
+      "source": 9,
+      "target": 10,
+      "text": "",
+      "pos": "",
+      "sent": 0
+    },
+    {
+      "source": 10,
+      "target": 11,
+      "text": "",
+      "pos": "",
+      "sent": 0
+    },
+    {
+      "source": 11,
+      "target": 12,
+      "text": "",
+      "pos": "",
+      "sent": 0
+    },
+    {
+      "source": 12,
+      "target": 13,
+      "text": "",
+      "pos": "",
+      "sent": 0
+    },
+    {
+      "source": 13,
+      "target": 14,
+      "text": "",
+      "pos": "",
+      "sent": 0
+    },
+    {
+      "source": 100,
+      "target": 101,
+      "text": "",
+      "pos": "",
+      "sent": 1
+    },
+    {
+      "source": 101,
+      "target": 102,
+      "text": "",
+      "pos": "",
+      "sent": 1
+    },
+    {
+      "source": 102,
+      "target": 103,
+      "text": "",
+      "pos": "",
+      "sent": 1
+    },
+    {
+      "source": 103,
+      "target": 104,
+      "text": "",
+      "pos": "",
+      "sent": 1
+    },
+    {
+      "source": 104,
+      "target": 105,
+      "text": "",
+      "pos": "",
+      "sent": 1
+    },
+    {
+      "source": 105,
+      "target": 106,
+      "text": "",
+      "pos": "",
+      "sent": 1
+    },
+    {
+      "source": 106,
+      "target": 107,
+      "text": "",
+      "pos": "",
+      "sent": 1
+    },
+    {
+      "source": 107,
+      "target": 108,
+      "text": "",
+      "pos": "",
+      "sent": 1
+    },
+    {
+      "source": 108,
+      "target": 109,
+      "text": "",
+      "pos": "",
+      "sent": 1
+    },
+    {
+      "source": 109,
+      "target": 110,
+      "text": "",
+      "pos": "",
+      "sent": 1
+    },
+    {
+      "source": 110,
+      "target": 111,
+      "text": "",
+      "pos": "",
+      "sent": 1
+    },
+    {
+      "source": 111,
+      "target": 112,
+      "text": "",
+      "pos": "",
+      "sent": 1
+    },
+    {
+      "source": 112,
+      "target": 113,
+      "text": "",
+      "pos": "",
+      "sent": 1
+    },
+    {
+      "source": 113,
+      "target": 114,
+      "text": "",
+      "pos": "",
+      "sent": 1
+    },
+    {
+      "source": 114,
+      "target": 115,
+      "text": "",
+      "pos": "",
+      "sent": 1
+    },
+    {
+      "source": 115,
+      "target": 116,
+      "text": "",
+      "pos": "",
+      "sent": 1
+    },
+    {
+      "source": 116,
+      "target": 117,
+      "text": "",
+      "pos": "",
+      "sent": 1
+    },
+    {
+      "source": 117,
+      "target": 118,
+      "text": "",
+      "pos": "",
+      "sent": 1
+    },
+    {
+      "source": 118,
+      "target": 119,
+      "text": "",
+      "pos": "",
+      "sent": 1
+    },
+    {
+      "source": 119,
+      "target": 120,
+      "text": "",
+      "pos": "",
+      "sent": 1
+    },
+    {
+      "source": 120,
+      "target": 121,
+      "text": "",
+      "pos": "",
+      "sent": 1
+    },
+    {
+      "source": 121,
+      "target": 122,
+      "text": "",
+      "pos": "",
+      "sent": 1
+    },
+    {
+      "source": 122,
+      "target": 123,
+      "text": "",
+      "pos": "",
+      "sent": 1
+    },
+    {
+      "source": 123,
+      "target": 124,
+      "text": "",
+      "pos": "",
+      "sent": 1
+    },
+    {
+      "source": 124,
+      "target": 125,
+      "text": "",
+      "pos": "",
+      "sent": 1
+    },
+    {
+      "source": 125,
+      "target": 126,
+      "text": "",
+      "pos": "",
+      "sent": 1
+    },
+    {
+      "source": 126,
+      "target": 127,
+      "text": "",
+      "pos": "",
+      "sent": 1
+    },
+    {
+      "source": 127,
+      "target": 128,
+      "text": "",
+      "pos": "",
+      "sent": 1
+    },
+    {
+      "source": 128,
+      "target": 129,
+      "text": "",
+      "pos": "",
+      "sent": 1
+    },
+    {
+      "source": 129,
+      "target": 130,
+      "text": "",
+      "pos": "",
+      "sent": 1
+    },
+    {
+      "source": 130,
+      "target": 131,
+      "text": "",
+      "pos": "",
+      "sent": 1
+    },
+    {
+      "source": 200,
+      "target": 201,
+      "text": "",
+      "pos": "",
+      "sent": 2
+    },
+    {
+      "source": 201,
+      "target": 202,
+      "text": "",
+      "pos": "",
+      "sent": 2
+    },
+    {
+      "source": 202,
+      "target": 203,
+      "text": "",
+      "pos": "",
+      "sent": 2
+    },
+    {
+      "source": 203,
+      "target": 204,
+      "text": "",
+      "pos": "",
+      "sent": 2
+    },
+    {
+      "source": 204,
+      "target": 205,
+      "text": "",
+      "pos": "",
+      "sent": 2
+    },
+    {
+      "source": 205,
+      "target": 206,
+      "text": "",
+      "pos": "",
+      "sent": 2
+    },
+    {
+      "source": 206,
+      "target": 207,
+      "text": "",
+      "pos": "",
+      "sent": 2
+    },
+    {
+      "source": 207,
+      "target": 208,
+      "text": "",
+      "pos": "",
+      "sent": 2
+    },
+    {
+      "source": 208,
+      "target": 209,
+      "text": "",
+      "pos": "",
+      "sent": 2
+    },
+    {
+      "source": 209,
+      "target": 210,
+      "text": "",
+      "pos": "",
+      "sent": 2
+    },
+    {
+      "source": 210,
+      "target": 211,
+      "text": "",
+      "pos": "",
+      "sent": 2
+    },
+    {
+      "source": 211,
+      "target": 212,
+      "text": "",
+      "pos": "",
+      "sent": 2
+    },
+    {
+      "source": 212,
+      "target": 213,
+      "text": "",
+      "pos": "",
+      "sent": 2
+    },
+    {
+      "source": 213,
+      "target": 214,
+      "text": "",
+      "pos": "",
+      "sent": 2
+    },
+    {
+      "source": 214,
+      "target": 215,
+      "text": "",
+      "pos": "",
+      "sent": 2
+    },
+    {
+      "source": 215,
+      "target": 216,
+      "text": "",
+      "pos": "",
+      "sent": 2
+    },
+    {
+      "source": 300,
+      "target": 301,
+      "text": "",
+      "pos": "",
+      "sent": 3
+    },
+    {
+      "source": 301,
+      "target": 302,
+      "text": "",
+      "pos": "",
+      "sent": 3
+    },
+    {
+      "source": 302,
+      "target": 303,
+      "text": "",
+      "pos": "",
+      "sent": 3
+    },
+    {
+      "source": 303,
+      "target": 304,
+      "text": "",
+      "pos": "",
+      "sent": 3
+    },
+    {
+      "source": 304,
+      "target": 305,
+      "text": "",
+      "pos": "",
+      "sent": 3
+    },
+    {
+      "source": 305,
+      "target": 306,
+      "text": "",
+      "pos": "",
+      "sent": 3
+    },
+    {
+      "source": 306,
+      "target": 307,
+      "text": "",
+      "pos": "",
+      "sent": 3
+    },
+    {
+      "source": 307,
+      "target": 308,
+      "text": "",
+      "pos": "",
+      "sent": 3
+    },
+    {
+      "source": 308,
+      "target": 309,
+      "text": "",
+      "pos": "",
+      "sent": 3
+    },
+    {
+      "source": 309,
+      "target": 310,
+      "text": "",
+      "pos": "",
+      "sent": 3
+    },
+    {
+      "source": 310,
+      "target": 311,
+      "text": "",
+      "pos": "",
+      "sent": 3
+    },
+    {
+      "source": 311,
+      "target": 312,
+      "text": "",
+      "pos": "",
+      "sent": 3
+    },
+    {
+      "source": 312,
+      "target": 313,
+      "text": "",
+      "pos": "",
+      "sent": 3
+    },
+    {
+      "source": 313,
+      "target": 314,
+      "text": "",
+      "pos": "",
+      "sent": 3
+    },
+    {
+      "source": 314,
+      "target": 315,
+      "text": "",
+      "pos": "",
+      "sent": 3
+    },
+    {
+      "source": 315,
+      "target": 316,
+      "text": "",
+      "pos": "",
+      "sent": 3
+    },
+    {
+      "source": 316,
+      "target": 317,
+      "text": "",
+      "pos": "",
+      "sent": 3
+    },
+    {
+      "source": 317,
+      "target": 318,
+      "text": "",
+      "pos": "",
+      "sent": 3
+    },
+    {
+      "source": 318,
+      "target": 319,
+      "text": "",
+      "pos": "",
+      "sent": 3
+    },
+    {
+      "source": 400,
+      "target": 401,
+      "text": "",
+      "pos": "",
+      "sent": 4
+    },
+    {
+      "source": 401,
+      "target": 402,
+      "text": "",
+      "pos": "",
+      "sent": 4
+    },
+    {
+      "source": 402,
+      "target": 403,
+      "text": "",
+      "pos": "",
+      "sent": 4
+    },
+    {
+      "source": 403,
+      "target": 404,
+      "text": "",
+      "pos": "",
+      "sent": 4
+    },
+    {
+      "source": 404,
+      "target": 405,
+      "text": "",
+      "pos": "",
+      "sent": 4
+    },
+    {
+      "source": 405,
+      "target": 406,
+      "text": "",
+      "pos": "",
+      "sent": 4
+    },
+    {
+      "source": 406,
+      "target": 407,
+      "text": "",
+      "pos": "",
+      "sent": 4
+    },
+    {
+      "source": 407,
+      "target": 408,
+      "text": "",
+      "pos": "",
+      "sent": 4
+    },
+    {
+      "source": 408,
+      "target": 409,
+      "text": "",
+      "pos": "",
+      "sent": 4
+    },
+    {
+      "source": 409,
+      "target": 410,
+      "text": "",
+      "pos": "",
+      "sent": 4
+    },
+    {
+      "source": 410,
+      "target": 411,
+      "text": "",
+      "pos": "",
+      "sent": 4
+    },
+    {
+      "source": 411,
+      "target": 412,
+      "text": "",
+      "pos": "",
+      "sent": 4
+    },
+    {
+      "source": 412,
+      "target": 413,
+      "text": "",
+      "pos": "",
+      "sent": 4
+    },
+    {
+      "source": 413,
+      "target": 414,
+      "text": "",
+      "pos": "",
+      "sent": 4
+    },
+    {
+      "source": 414,
+      "target": 415,
+      "text": "",
+      "pos": "",
+      "sent": 4
+    },
+    {
+      "source": 415,
+      "target": 416,
+      "text": "",
+      "pos": "",
+      "sent": 4
+    },
+    {
+      "source": 416,
+      "target": 417,
+      "text": "",
+      "pos": "",
+      "sent": 4
+    },
+    {
+      "source": 417,
+      "target": 418,
+      "text": "",
+      "pos": "",
+      "sent": 4
+    },
+    {
+      "source": 418,
+      "target": 419,
+      "text": "",
+      "pos": "",
+      "sent": 4
+    },
+    {
+      "source": 419,
+      "target": 420,
+      "text": "",
+      "pos": "",
+      "sent": 4
+    },
+    {
+      "source": 420,
+      "target": 421,
+      "text": "",
+      "pos": "",
+      "sent": 4
+    },
+    {
+      "source": 500,
+      "target": 501,
+      "text": "",
+      "pos": "",
+      "sent": 5
+    },
+    {
+      "source": 501,
+      "target": 502,
+      "text": "",
+      "pos": "",
+      "sent": 5
+    },
+    {
+      "source": 502,
+      "target": 503,
+      "text": "",
+      "pos": "",
+      "sent": 5
+    },
+    {
+      "source": 503,
+      "target": 504,
+      "text": "",
+      "pos": "",
+      "sent": 5
+    },
+    {
+      "source": 504,
+      "target": 505,
+      "text": "",
+      "pos": "",
+      "sent": 5
+    },
+    {
+      "source": 505,
+      "target": 506,
+      "text": "",
+      "pos": "",
+      "sent": 5
+    },
+    {
+      "source": 506,
+      "target": 507,
+      "text": "",
+      "pos": "",
+      "sent": 5
+    },
+    {
+      "source": 507,
+      "target": 508,
+      "text": "",
+      "pos": "",
+      "sent": 5
+    },
+    {
+      "source": 508,
+      "target": 509,
+      "text": "",
+      "pos": "",
+      "sent": 5
+    },
+    {
+      "source": 509,
+      "target": 510,
+      "text": "",
+      "pos": "",
+      "sent": 5
+    },
+    {
+      "source": 510,
+      "target": 511,
+      "text": "",
+      "pos": "",
+      "sent": 5
+    },
+    {
+      "source": 511,
+      "target": 512,
+      "text": "",
+      "pos": "",
+      "sent": 5
+    },
+    {
+      "source": 600,
+      "target": 601,
+      "text": "",
+      "pos": "",
+      "sent": 6
+    },
+    {
+      "source": 601,
+      "target": 602,
+      "text": "",
+      "pos": "",
+      "sent": 6
+    },
+    {
+      "source": 602,
+      "target": 603,
+      "text": "",
+      "pos": "",
+      "sent": 6
+    },
+    {
+      "source": 603,
+      "target": 604,
+      "text": "",
+      "pos": "",
+      "sent": 6
+    },
+    {
+      "source": 604,
+      "target": 605,
+      "text": "",
+      "pos": "",
+      "sent": 6
+    },
+    {
+      "source": 605,
+      "target": 606,
+      "text": "",
+      "pos": "",
+      "sent": 6
+    },
+    {
+      "source": 606,
+      "target": 607,
+      "text": "",
+      "pos": "",
+      "sent": 6
+    },
+    {
+      "source": 607,
+      "target": 608,
+      "text": "",
+      "pos": "",
+      "sent": 6
+    },
+    {
+      "source": 700,
+      "target": 701,
+      "text": "",
+      "pos": "",
+      "sent": 7
+    },
+    {
+      "source": 701,
+      "target": 702,
+      "text": "",
+      "pos": "",
+      "sent": 7
+    },
+    {
+      "source": 702,
+      "target": 703,
+      "text": "",
+      "pos": "",
+      "sent": 7
+    },
+    {
+      "source": 703,
+      "target": 704,
+      "text": "",
+      "pos": "",
+      "sent": 7
+    },
+    {
+      "source": 704,
+      "target": 705,
+      "text": "",
+      "pos": "",
+      "sent": 7
+    },
+    {
+      "source": 705,
+      "target": 706,
+      "text": "",
+      "pos": "",
+      "sent": 7
+    },
+    {
+      "source": 706,
+      "target": 707,
+      "text": "",
+      "pos": "",
+      "sent": 7
+    },
+    {
+      "source": 707,
+      "target": 708,
+      "text": "",
+      "pos": "",
+      "sent": 7
+    },
+    {
+      "source": 708,
+      "target": 709,
+      "text": "",
+      "pos": "",
+      "sent": 7
+    },
+    {
+      "source": 709,
+      "target": 710,
+      "text": "",
+      "pos": "",
+      "sent": 7
+    },
+    {
+      "source": 710,
+      "target": 711,
+      "text": "",
+      "pos": "",
+      "sent": 7
+    },
+    {
+      "source": 711,
+      "target": 712,
+      "text": "",
+      "pos": "",
+      "sent": 7
+    },
+    {
+      "source": 712,
+      "target": 713,
+      "text": "",
+      "pos": "",
+      "sent": 7
+    },
+    {
+      "source": 713,
+      "target": 714,
+      "text": "",
+      "pos": "",
+      "sent": 7
+    },
+    {
+      "source": 714,
+      "target": 715,
+      "text": "",
+      "pos": "",
+      "sent": 7
+    },
+    {
+      "source": 715,
+      "target": 716,
+      "text": "",
+      "pos": "",
+      "sent": 7
+    },
+    {
+      "source": 716,
+      "target": 717,
+      "text": "",
+      "pos": "",
+      "sent": 7
+    },
+    {
+      "source": 717,
+      "target": 718,
+      "text": "",
+      "pos": "",
+      "sent": 7
+    },
+    {
+      "source": 718,
+      "target": 719,
+      "text": "",
+      "pos": "",
+      "sent": 7
+    },
+    {
+      "source": 800,
+      "target": 801,
+      "text": "",
+      "pos": "",
+      "sent": 8
+    },
+    {
+      "source": 801,
+      "target": 802,
+      "text": "",
+      "pos": "",
+      "sent": 8
+    },
+    {
+      "source": 802,
+      "target": 803,
+      "text": "",
+      "pos": "",
+      "sent": 8
+    },
+    {
+      "source": 803,
+      "target": 804,
+      "text": "",
+      "pos": "",
+      "sent": 8
+    },
+    {
+      "source": 804,
+      "target": 805,
+      "text": "",
+      "pos": "",
+      "sent": 8
+    },
+    {
+      "source": 805,
+      "target": 806,
+      "text": "",
+      "pos": "",
+      "sent": 8
+    },
+    {
+      "source": 806,
+      "target": 807,
+      "text": "",
+      "pos": "",
+      "sent": 8
+    },
+    {
+      "source": 807,
+      "target": 808,
+      "text": "",
+      "pos": "",
+      "sent": 8
+    },
+    {
+      "source": 808,
+      "target": 809,
+      "text": "",
+      "pos": "",
+      "sent": 8
+    },
+    {
+      "source": 809,
+      "target": 810,
+      "text": "",
+      "pos": "",
+      "sent": 8
+    },
+    {
+      "source": 810,
+      "target": 811,
+      "text": "",
+      "pos": "",
+      "sent": 8
+    },
+    {
+      "source": 811,
+      "target": 812,
+      "text": "",
+      "pos": "",
+      "sent": 8
+    },
+    {
+      "source": 812,
+      "target": 813,
+      "text": "",
+      "pos": "",
+      "sent": 8
+    },
+    {
+      "source": 813,
+      "target": 814,
+      "text": "",
+      "pos": "",
+      "sent": 8
+    },
+    {
+      "source": 814,
+      "target": 815,
+      "text": "",
+      "pos": "",
+      "sent": 8
+    },
+    {
+      "source": 815,
+      "target": 816,
+      "text": "",
+      "pos": "",
+      "sent": 8
+    },
+    {
+      "source": 816,
+      "target": 817,
+      "text": "",
+      "pos": "",
+      "sent": 8
+    },
+    {
+      "source": 817,
+      "target": 818,
+      "text": "",
+      "pos": "",
+      "sent": 8
+    },
+    {
+      "source": 818,
+      "target": 819,
+      "text": "",
+      "pos": "",
+      "sent": 8
+    },
+    {
+      "source": 819,
+      "target": 820,
+      "text": "",
+      "pos": "",
+      "sent": 8
+    },
+    {
+      "source": 820,
+      "target": 821,
+      "text": "",
+      "pos": "",
+      "sent": 8
+    },
+    {
+      "source": 821,
+      "target": 822,
+      "text": "",
+      "pos": "",
+      "sent": 8
+    },
+    {
+      "source": 822,
+      "target": 823,
+      "text": "",
+      "pos": "",
+      "sent": 8
+    },
+    {
+      "source": 900,
+      "target": 901,
+      "text": "",
+      "pos": "",
+      "sent": 9
+    },
+    {
+      "source": 901,
+      "target": 902,
+      "text": "",
+      "pos": "",
+      "sent": 9
+    },
+    {
+      "source": 902,
+      "target": 903,
+      "text": "",
+      "pos": "",
+      "sent": 9
+    },
+    {
+      "source": 903,
+      "target": 904,
+      "text": "",
+      "pos": "",
+      "sent": 9
+    },
+    {
+      "source": 904,
+      "target": 905,
+      "text": "",
+      "pos": "",
+      "sent": 9
+    },
+    {
+      "source": 905,
+      "target": 906,
+      "text": "",
+      "pos": "",
+      "sent": 9
+    },
+    {
+      "source": 906,
+      "target": 907,
+      "text": "",
+      "pos": "",
+      "sent": 9
+    },
+    {
+      "source": 907,
+      "target": 908,
+      "text": "",
+      "pos": "",
+      "sent": 9
+    },
+    {
+      "source": 908,
+      "target": 909,
+      "text": "",
+      "pos": "",
+      "sent": 9
+    },
+    {
+      "source": 909,
+      "target": 910,
+      "text": "",
+      "pos": "",
+      "sent": 9
+    },
+    {
+      "source": 1000,
+      "target": 1001,
+      "text": "",
+      "pos": "",
+      "sent": 10
+    },
+    {
+      "source": 1001,
+      "target": 1002,
+      "text": "",
+      "pos": "",
+      "sent": 10
+    },
+    {
+      "source": 1002,
+      "target": 1003,
+      "text": "",
+      "pos": "",
+      "sent": 10
+    },
+    {
+      "source": 1003,
+      "target": 1004,
+      "text": "",
+      "pos": "",
+      "sent": 10
+    },
+    {
+      "source": 1004,
+      "target": 1005,
+      "text": "",
+      "pos": "",
+      "sent": 10
+    },
+    {
+      "source": 1005,
+      "target": 1006,
+      "text": "",
+      "pos": "",
+      "sent": 10
+    },
+    {
+      "source": 1006,
+      "target": 1007,
+      "text": "",
+      "pos": "",
+      "sent": 10
+    },
+    {
+      "source": 1007,
+      "target": 1008,
+      "text": "",
+      "pos": "",
+      "sent": 10
+    },
+    {
+      "source": 1008,
+      "target": 1009,
+      "text": "",
+      "pos": "",
+      "sent": 10
+    },
+    {
+      "source": 1009,
+      "target": 1010,
+      "text": "",
+      "pos": "",
+      "sent": 10
+    },
+    {
+      "source": 1010,
+      "target": 1011,
+      "text": "",
+      "pos": "",
+      "sent": 10
+    },
+    {
+      "source": 1011,
+      "target": 1012,
+      "text": "",
+      "pos": "",
+      "sent": 10
+    },
+    {
+      "source": 1012,
+      "target": 1013,
+      "text": "",
+      "pos": "",
+      "sent": 10
+    },
+    {
+      "source": 1013,
+      "target": 1014,
+      "text": "",
+      "pos": "",
+      "sent": 10
+    },
+    {
+      "source": 1014,
+      "target": 1015,
+      "text": "",
+      "pos": "",
+      "sent": 10
+    },
+    {
+      "source": 1015,
+      "target": 1016,
+      "text": "",
+      "pos": "",
+      "sent": 10
+    },
+    {
+      "source": 1016,
+      "target": 1017,
+      "text": "",
+      "pos": "",
+      "sent": 10
+    },
+    {
+      "source": 1017,
+      "target": 1018,
+      "text": "",
+      "pos": "",
+      "sent": 10
+    },
+    {
+      "source": 1018,
+      "target": 1019,
+      "text": "",
+      "pos": "",
+      "sent": 10
+    },
+    {
+      "source": 1019,
+      "target": 1020,
+      "text": "",
+      "pos": "",
+      "sent": 10
+    },
+    {
+      "source": 1020,
+      "target": 1021,
+      "text": "",
+      "pos": "",
+      "sent": 10
+    },
+    {
+      "source": 1021,
+      "target": 1022,
+      "text": "",
+      "pos": "",
+      "sent": 10
+    },
+    {
+      "source": 1022,
+      "target": 1023,
+      "text": "",
+      "pos": "",
+      "sent": 10
+    },
+    {
+      "source": 1023,
+      "target": 1024,
+      "text": "",
+      "pos": "",
+      "sent": 10
+    },
+    {
+      "source": 1100,
+      "target": 1101,
+      "text": "",
+      "pos": "",
+      "sent": 11
+    },
+    {
+      "source": 1101,
+      "target": 1102,
+      "text": "",
+      "pos": "",
+      "sent": 11
+    },
+    {
+      "source": 1102,
+      "target": 1103,
+      "text": "",
+      "pos": "",
+      "sent": 11
+    },
+    {
+      "source": 1103,
+      "target": 1104,
+      "text": "",
+      "pos": "",
+      "sent": 11
+    },
+    {
+      "source": 1104,
+      "target": 1105,
+      "text": "",
+      "pos": "",
+      "sent": 11
+    },
+    {
+      "source": 1105,
+      "target": 1106,
+      "text": "",
+      "pos": "",
+      "sent": 11
+    },
+    {
+      "source": 1106,
+      "target": 1107,
+      "text": "",
+      "pos": "",
+      "sent": 11
+    },
+    {
+      "source": 1107,
+      "target": 1108,
+      "text": "",
+      "pos": "",
+      "sent": 11
+    },
+    {
+      "source": 1108,
+      "target": 1109,
+      "text": "",
+      "pos": "",
+      "sent": 11
+    },
+    {
+      "source": 1109,
+      "target": 1110,
+      "text": "",
+      "pos": "",
+      "sent": 11
+    },
+    {
+      "source": 1110,
+      "target": 1111,
+      "text": "",
+      "pos": "",
+      "sent": 11
+    },
+    {
+      "source": 1111,
+      "target": 1112,
+      "text": "",
+      "pos": "",
+      "sent": 11
+    },
+    {
+      "source": 1112,
+      "target": 1113,
+      "text": "",
+      "pos": "",
+      "sent": 11
+    },
+    {
+      "source": 1113,
+      "target": 1114,
+      "text": "",
+      "pos": "",
+      "sent": 11
+    },
+    {
+      "source": 1114,
+      "target": 1115,
+      "text": "",
+      "pos": "",
+      "sent": 11
+    },
+    {
+      "source": 1115,
+      "target": 1116,
+      "text": "",
+      "pos": "",
+      "sent": 11
+    },
+    {
+      "source": 1116,
+      "target": 1117,
+      "text": "",
+      "pos": "",
+      "sent": 11
+    },
+    {
+      "source": 1117,
+      "target": 1118,
+      "text": "",
+      "pos": "",
+      "sent": 11
+    },
+    {
+      "source": 1118,
+      "target": 1119,
+      "text": "",
+      "pos": "",
+      "sent": 11
+    }
+  ],
+  "words": [
+    {
+      "_1": 0,
+      "_2": "Headcrabs are depicted as parasitic lifeforms roughly 2 feet (0.61 m) long."
+    },
+    {
+      "_1": 1,
+      "_2": "[1] The common headcrab variant has rounded bodies with four legs for movement, two of which are long clawed legs at the front and two stubby legs at the back."
+    },
+    {
+      "_1": 2,
+      "_2": "Their pair of large frontal claws are for attacking, and as additional support when standing still."
+    },
+    {
+      "_1": 3,
+      "_2": "Under the headcrab\u0027s body is a large rounded mouth surrounded by mangled, rigid flesh with a sharp claw-like beak."
+    },
+    {
+      "_1": 4,
+      "_2": "Physically, headcrabs are frail, a few bullets or a single strike from the player\u0027s melee weapon being sufficient to dispatch them."
+    },
+    {
+      "_1": 5,
+      "_2": "They are also relatively slow-moving and their attacks inflict very little damage."
+    },
+    {
+      "_1": 6,
+      "_2": "However, they can leap surprising distances and heights."
+    },
+    {
+      "_1": 7,
+      "_2": "Headcrabs seek out larger human hosts, which are converted into zombie-like mutants that attack any living thing they can find."
+    },
+    {
+      "_1": 8,
+      "_2": "The converted humans are far more resilient than an ordinary human would be and inherit the headcrab\u0027s resilience toward toxic and radioactive materials."
+    },
+    {
+      "_1": 9,
+      "_2": "Headcrabs and headcrab zombies die slowly when they catch fire."
+    },
+    {
+      "_1": 10,
+      "_2": "The games also establish that while headcrabs are parasites that prey on humans, they are also the prey of the creatures of their homeworld."
+    },
+    {
+      "_1": 11,
+      "_2": "Bullsquids, Vortigaunts, barnacles and antlions will all eat headcrabs and Vortigaunts can be seen cooking them on several occasions."
+    }
+  ]
+}

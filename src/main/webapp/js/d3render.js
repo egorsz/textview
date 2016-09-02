@@ -20,8 +20,8 @@ RENDERER.render = function(generateTable) {
         .nodes(d3.values(nodes))
         .links(links)
         .size([width, height])
-        .linkDistance(150)
-        .charge(-500)
+        .linkDistance(50)
+        .charge(-200)
         .on("tick", tick)
         .start();
 

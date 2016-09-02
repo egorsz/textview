@@ -160,8 +160,8 @@ APP.stopwords = ["a", "as", "to", "is", "the", "it", "was", "were", "are", "15",
  APP.sendText = function (txt) {
 
      $.ajax({
-         type: "POST",
-         url: document.location.origin + "/api",
+         type: "GET",
+         url: document.location.origin + "/json/graph.json",
          data: txt,
          success: function (data) {
 
@@ -204,4 +204,5 @@ APP.stopwords = ["a", "as", "to", "is", "the", "it", "was", "were", "are", "15",
 //run application on load  
 $(document).ready(function(){
     APP.sendText(APP.defaultText) 
+    $('#inp_text').text(APP.defaultText)
 })
