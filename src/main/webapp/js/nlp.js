@@ -161,7 +161,7 @@ APP.stopwords = ["a", "as", "to", "is", "the", "it", "was", "were", "are", "15",
 
      $.ajax({
          type: "GET",
-         url: document.location.origin + "/json/graph.json",
+         url: "json/graph.json",
          data: txt,
          success: function (data) {
 
