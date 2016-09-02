@@ -28,7 +28,7 @@ bin/main.properties
 
 
 ##Set Up
-###Requirements: 
+###Requirements
 1. JDK 1.8
 
 ###Build
